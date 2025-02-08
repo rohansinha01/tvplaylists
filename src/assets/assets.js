@@ -58,5 +58,9 @@ export const episodeData = [
     {
         id: 15,
         title: "The One with the Stoned Guy"
+    },
+    {
+        id: 16,
+        title: "The One with Two Parts: Part 1"
     }
 ]
