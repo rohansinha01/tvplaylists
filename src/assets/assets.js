@@ -38,5 +38,13 @@ export const episodeData = [
     {
         id: 10,
         title: "The One with the Monkey"
+    },
+    {
+        id: 11,
+        title: "The One with Mrs. Bing"
+    },
+    {
+        id: 12,
+        title: "The One with the Dozen Lasagnas"
     }
 ]
