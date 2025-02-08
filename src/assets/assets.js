@@ -15,4 +15,20 @@ export const episodeData = [
         id: 4,
         title: "The One with George Stephanopoulos"
     },
+    {
+        id: 5,
+        title: "The One with the East German Laundry Detergent"
+    },
+    {
+        id: 6,
+        title: "The One with the Butt"
+    },
+    {
+        id: 7,
+        title: "The One with the Blackout"
+    },
+    {
+        id: 8,
+        title: "The One Where Nana Dies Twice"
+    }
 ]
