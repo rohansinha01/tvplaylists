@@ -30,5 +30,13 @@ export const episodeData = [
     {
         id: 8,
         title: "The One Where Nana Dies Twice"
+    },
+    {
+        id: 9,
+        title: "The One Where Underdog Gets Away"
+    },
+    {
+        id: 10,
+        title: "The One with the Monkey"
     }
 ]
