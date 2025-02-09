@@ -138,5 +138,13 @@ export const episodeData = [
     {
         id: 35,
         title: "The One with the Lesbian Wedding"
+    },
+    {
+        id: 36,
+        title: "The One After the Superbowl: Part 1"
+    },
+    {
+        id: 37,
+        title: "The One After the Superbowl: Part 2"
     }
 ]
