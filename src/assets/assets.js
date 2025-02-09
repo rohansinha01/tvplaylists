@@ -1,7 +1,8 @@
 export const episodeData = [
     {
         id: 1,
-        title: "The One Where Monica Gets a Roommate"
+        title: "The One Where Monica Gets a Roommate",
+        date: "1994-09-22",
     },
     {
         id: 2,
