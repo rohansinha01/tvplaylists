@@ -146,5 +146,9 @@ export const episodeData = [
     {
         id: 37,
         title: "The One After the Superbowl: Part 2"
+    },
+    {
+        id: 38,
+        title: "The One with the Prom Video"
     }
 ]
