@@ -2,7 +2,7 @@
 
 const App = () => {
   return (
-    <div>App</div>
+    <div className="w-32 h-32 bg-neutral-500">App</div>
   )
 }
 
