@@ -1,3 +1,5 @@
+import home_icon from './home.png';
+
 export const friendsEpisodeData = [
     {
         id: 1,
@@ -205,3 +207,7 @@ export const friendsEpisodeData = [
         date: "1996-02-22",
     }
 ]
+
+export const assets = {
+    home_icon
+}
