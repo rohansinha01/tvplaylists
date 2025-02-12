@@ -1,4 +1,4 @@
-import home_icon from './home.png';
+import home_icon from './home.png'
 
 export const friendsEpisodeData = [
     {
