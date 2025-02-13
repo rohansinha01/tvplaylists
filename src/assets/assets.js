@@ -1,6 +1,7 @@
 import home_icon from './home.png'
 import search_icon from './search.png'
 import stack_icon from './stack.png'
+import arrow_icon from './arrow.png'
 
 export const friendsEpisodeData = [
     {
@@ -213,5 +214,6 @@ export const friendsEpisodeData = [
 export const assets = {
     home_icon,
     search_icon,
-    stack_icon
+    stack_icon,
+    arrow_icon
 }
