@@ -20,7 +20,7 @@ const Sidebar = () => {
                     <p className='font-semibold'>Your Library</p>
                 </div>
                 <div className='flex items-center gap-3'>
-                    
+                    <img src={assets.arrow_icon} alt="" />
                 </div>
             </div>
         </div>
