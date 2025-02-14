@@ -24,6 +24,9 @@ const Sidebar = () => {
                     <img className='w-5' src={assets.plus_icon} alt="" />
                 </div>
             </div>
+            <div>
+                
+            </div>
         </div>
     </div>
   )
