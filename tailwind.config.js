@@ -3,7 +3,7 @@ export default {
   content: [],
   theme: {
     extend: {
-      display: ['group-hover'],
+      display: []
     },
   },
   plugins: [],
