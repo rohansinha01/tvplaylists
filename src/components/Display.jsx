@@ -2,7 +2,9 @@
 
 const Display = () => {
   return (
-    <div>Display</div>
+    <div>
+        
+    </div>
   )
 }
 
