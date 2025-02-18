@@ -2,7 +2,11 @@
 
 const Navbar = () => {
   return (
-    <div>Navbar</div>
+    <>
+        <div className="w-full flex justify-between items-center font-semibold">
+    
+        </div>
+    </>
   )
 }
 
