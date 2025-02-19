@@ -3,6 +3,7 @@ import search_icon from './search.png'
 import stack_icon from './stack.png'
 import arrow_icon from './arrow.png'
 import plus_icon from './plus.png'
+import left_arrow from './left-arrow.png'
 
 export const friendsEpisodeData = [
     {
@@ -217,5 +218,6 @@ export const assets = {
     search_icon,
     stack_icon,
     arrow_icon,
-    plus_icon
+    plus_icon,
+    left_arrow
 }
