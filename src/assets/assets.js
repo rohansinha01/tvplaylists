@@ -4,6 +4,7 @@ import stack_icon from './stack.png'
 import arrow_icon from './arrow.png'
 import plus_icon from './plus.png'
 import left_arrow from './left_arrow.png'
+import right_arrow from './right_arrow.png'
 
 export const friendsEpisodeData = [
     {
@@ -220,4 +221,5 @@ export const assets = {
     arrow_icon,
     plus_icon,
     left_arrow,
+    right_arrow
 }
