@@ -16,7 +16,7 @@ const Navbar = () => {
             </div>
         </div>
         <div className='flex items-center gap-2 mt-4'>
-            <p className='bg-white'>
+            <p className='bg-white text-black'>
                 All
             </p>
         </div>
