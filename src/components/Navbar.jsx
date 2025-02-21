@@ -15,6 +15,7 @@ const Navbar = () => {
                 <p className='bg-purple-500 text-black w-7 h-7 rounded-full flex items-center justify-center'>D</p>
             </div>
         </div>
+        
     </>
   )
 }
