@@ -19,10 +19,10 @@ const Navbar = () => {
             <p className='bg-white text-black px-4 py-1 rounded-2xl'>
                 All
             </p>
-            <p className='bg-black px-4py-1 rounded-2xl'>
+            <p className='bg-black px-4 py-1 rounded-2xl'>
                 Shows
             </p>
-            <p className='bg-black px-4py-1 rounded-2xl'>
+            <p className='bg-black px-4 py-1 rounded-2xl'>
                 Playlists
             </p>
         </div>
