@@ -22,6 +22,9 @@ const Navbar = () => {
             <p className='bg-black px-4py-1 rounded-2xl'>
                 Shows
             </p>
+            <p className='bg-black px-4py-1 rounded-2xl'>
+                Playlists
+            </p>
         </div>
     </>
   )
