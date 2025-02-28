@@ -211,7 +211,58 @@ export const friendsEpisodeData = [
         id: 41,
         title: "The One Where Eddie Moves In",
         date: "1996-02-22",
+    },
+    {
+            id: 42,
+            title: "The One Where Dr. Ramoray Dies",
+            date: "1996-03-21",
+    },
+    {
+            id: 43,
+            title: "The One Where Eddie Won't Go",
+            date: "1996-03-28",
+    },
+    {
+            id: 44,
+            title: "The One Where Old Yeller Dies",
+            date: "1996-04-04",
+    },
+        {
+            id: 45,
+            title: "The One with the Bullies",
+            date: "1996-04-25",
+    },
+    {
+            id: 46,
+            title: "The One with the Two Parties",
+            date: "1996-05-02",
+    },
+    {
+            id: 47,
+            title: "The One with the Chicken Pox",
+            date: "1996-05-09",
+    },
+    {
+            id: 48,
+            title: "The One with Barry and Mindy's Wedding",
+            date: "1996-05-16",
+    },
+    {
+            id: 49,
+            title: "The One with the Princess Leia Fantasy",
+            date: "1996-09-19",
+    },
+    {
+            id: 50,
+            title: "The One Where No One's Ready",
+            date: "1996-09-26",
+    },
+    {
+            id: 51,
+            title: "The One with the Jam",
+            date: "1996-10-03",
     }
+    
 ]
 
 export const assets = {
