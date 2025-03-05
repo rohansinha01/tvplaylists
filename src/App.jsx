@@ -1,6 +1,7 @@
 // import Player from "./components/Player"
 
 import Display from "./components/Display"
+import DisplayHome from "./components/DisplayHome"
 import Sidebar from "./components/Sidebar"
 
 const App = () => {
@@ -9,7 +10,8 @@ const App = () => {
       <div className="h-[90%] flex">
         <Sidebar />
         <Display />
-      </div>
+        <DisplayHome />
+      </div> 
       {/* <Player /> */}
       
     </div>

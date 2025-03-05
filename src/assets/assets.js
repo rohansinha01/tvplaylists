@@ -265,6 +265,8 @@ export const friendsEpisodeData = [
     
 ]
 
+export default friendsEpisodeData;
+
 export const assets = {
     home_icon,
     search_icon,
